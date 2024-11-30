@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: brown;
+    font-family: fantasy;
+    font-size: 71px;
+    
+}
+body{
+    background-image: url("punk2.jpg");
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
